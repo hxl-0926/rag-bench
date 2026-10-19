@@ -1,0 +1,6 @@
+{"id":"q1","retrieved":["spacing","recall"],"citations":["recall"],"abstained":false,"latencyMs":8}
+{"id":"q2","retrieved":["recall"],"citations":["recall"],"abstained":false,"latencyMs":7}
+{"id":"q3","retrieved":["atomicity"],"citations":["atomicity"],"abstained":false,"latencyMs":10}
+{"id":"q4","retrieved":["version"],"citations":["version"],"abstained":false,"latencyMs":9}
+{"id":"q5","retrieved":["recall"],"citations":["invented"],"abstained":false,"latencyMs":7}
+{"id":"q6","retrieved":["spacing","bm25"],"citations":["bm25"],"abstained":false,"latencyMs":11}

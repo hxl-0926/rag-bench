@@ -1,0 +1,6 @@
+{"id":"q1","retrieved":["recall"],"citations":["recall"],"abstained":false,"latencyMs":10}
+{"id":"q2","retrieved":["spacing"],"citations":["spacing"],"abstained":false,"latencyMs":9}
+{"id":"q3","retrieved":["atomicity","idempotency"],"citations":["atomicity","idempotency"],"abstained":false,"latencyMs":11}
+{"id":"q4","retrieved":["version"],"citations":["version"],"abstained":false,"latencyMs":12}
+{"id":"q5","retrieved":[],"citations":[],"abstained":true,"latencyMs":8}
+{"id":"q6","retrieved":["bm25"],"citations":["bm25"],"abstained":false,"latencyMs":10}

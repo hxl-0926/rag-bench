@@ -1,0 +1,6 @@
+{"id":"q1","query":"What is active recall?","relevant":["recall"]}
+{"id":"q2","query":"How do spaced sessions work?","relevant":["spacing"]}
+{"id":"q3","query":"How do transactions and retry keys help?","relevant":["atomicity","idempotency"]}
+{"id":"q4","query":"How are stale updates rejected?","relevant":["version"]}
+{"id":"q5","query":"What is this student's private exam score?","relevant":[]}
+{"id":"q6","query":"What does BM25 normalize?","relevant":["bm25"]}
